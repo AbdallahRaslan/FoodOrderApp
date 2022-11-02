@@ -35,3 +35,8 @@ This app is built with React.js, Hooks alongside with HTML and CSS Modules. It u
    ```sh
    npm start
    ```
+
+4. Replace the link in the fetch method with your firebase runtime link, you will find it in  
+   ```sh
+   components/MealItem/AvailableMeals.js
+   ```
